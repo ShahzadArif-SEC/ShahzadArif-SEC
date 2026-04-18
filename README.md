@@ -1,29 +1,48 @@
-# Hi, I'm Shahzad 👋
+# Hi there 👋, I'm Shahzad Arif
 
-🎓 BS Cyber Security Student  
+### 🛡️ Future Cybersecurity Expert | 💻 Software Enthusiast
 
-💻 Currently learning:
-- Python  
-- Java  
+I'm a passionate **BS Cybersecurity** student based in Multan, Pakistan. I love diving into security concepts, building robust applications, and constantly learning new technologies to stay ahead in the tech world.
 
-🎯 Goal:
-- Become a Cyber Security Expert  
+---
 
-📌 Interests:
-- Ethical Hacking  
-- Network Security  
+### 🚀 About Me
 
-<!--
-**ShahzadArif-SEC/ShahzadArif-SEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 Currently pursuing a degree in **BS Cybersecurity**.
+* 🧠 Actively learning and building projects using **Python, Java, ReactJS, and SQL**.
+* 💡 Experienced with database management and application development.
+* ⚡ Fun fact: I'm always looking to optimize my code and learn about the latest security protocols!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools
+
+Here are the languages and technologies I am currently working with:
+
+**Languages & Frameworks:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+**Databases:**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**IDE & Tools:**
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium)
+
+---
+
+### 📫 How to reach me
+
+* 💼 **LinkedIn:** [Add Your LinkedIn Link Here](#)
+* 📧 **Email:** [Add Your Email Here](#)
