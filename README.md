@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hi, I'm Shahzad 👋
+
+🎓 BS Cyber Security Student  
+
+💻 Currently learning:
+- Python  
+- Java  
+
+🎯 Goal:
+- Become a Cyber Security Expert  
+
+📌 Interests:
+- Ethical Hacking  
+- Network Security  
 
 <!--
 **ShahzadArif-SEC/ShahzadArif-SEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
