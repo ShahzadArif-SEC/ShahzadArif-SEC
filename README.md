@@ -34,9 +34,4 @@ Here are the languages and technologies I am currently working with:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-### 📫 How to reach me
 
-* 💼 **LinkedIn:** [www.linkedin.com/in/
-shehzad-sandila-7a3878369
-](#)
-* 📧 **Email:** [shehzadsandila1@gmail.com](#)
