@@ -33,16 +33,10 @@ Here are the languages and technologies I am currently working with:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium)
-
----
 
 ### 📫 How to reach me
 
-* 💼 **LinkedIn:** [Add Your LinkedIn Link Here](#)
-* 📧 **Email:** [Add Your Email Here](#)
+* 💼 **LinkedIn:** [www.linkedin.com/in/
+shehzad-sandila-7a3878369
+](#)
+* 📧 **Email:** [shehzadsandila1@gmail.com](#)
