@@ -9,7 +9,7 @@ I'm a passionate **BS Cybersecurity** student based in Multan, Pakistan. I love 
 ### 🚀 About Me
 
 * 🎓 Currently pursuing a degree in **BS Cybersecurity**.
-* 🧠 Actively learning and building projects using **Python, Java, ReactJS, and SQL**.
+* 🧠 Actively learning and building projects using **Python, Java, and SQL**.
 * 💡 Experienced with database management and application development.
 * ⚡ Fun fact: I'm always looking to optimize my code and learn about the latest security protocols!
 
